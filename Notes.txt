@@ -1,0 +1,29 @@
+___Notes Git Leran ___
+لعمل الكونت ليكون ملف تعريفي يكون علي الاجهزه ولا يستخدم كا تسجيبل دخول وخروج والخ :
+
+1- Git Config --Global User.Name  " "
+2- Git Config --Global User.Email " "
+
+3- للتاكد من صح الاسم
+Git Config User.Name -Enter
+
+4- للتاكد من صحه الايميل 
+Git Config User.Email -Enter
+
+5- Git -Enter (هجيب لك كل خصائص  الجيت)
+
+6-Clear -Enter (هيمسح كل حاجه قي الصفحه )
+
+7- Git Init "" (لانشاء مستودع)
+
+8- Cd "Name Project" (هيدخلك علي المشروع )
+
+9- Git Status -Enter (هيوضحلك حاله الجيت)
+
+10-Touch index.html  (كده انت انشاءت ملف html)
+
+11- Git Add index.html (كده انت ضفت ملف html)
+
+12- Git Commit-m "Text Masseag" (لعمل كومت )
+
+13- Git log (حاجه شبه السجل )
